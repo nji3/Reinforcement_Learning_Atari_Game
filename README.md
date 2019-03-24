@@ -43,7 +43,11 @@ Max T: The maximum number of timesteps per episode for the game. Just make sure 
 
 According to my implementation design, there are three stages of training. The plots of scores for each stage of traninig will be listed below.
 
-
+<div align="center">
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_1.png" width="200px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_2.png" width="200px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_3.png" width="200px"</img>
+</div>
 
 From the left one to the right, it can be clearly seen that based on the preivious memory and a smaller learning rate, the new stage would have a faster rate to have better scores. It seems that my strategy here works.
 
@@ -51,4 +55,9 @@ From the left one to the right, it can be clearly seen that based on the preivio
 
 I stopped when I have the averaged score reached 32. And I used my final model (the policy network) to generate some sample games. The results are relatively good and have a average scores beyond 50. I generate 200 samples and below are the screen shots of several games with scores above 80.
 
-
+<div align="center">
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/81_gif.gif" width="150px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/82_gif.png" width="150px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/87_gif.png" width="150px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/96_gif.png" width="150px"</img>
+</div>
