@@ -44,9 +44,9 @@ Max T: The maximum number of timesteps per episode for the game. Just make sure 
 According to my implementation design, there are three stages of training. The plots of scores for each stage of traninig will be listed below.
 
 <div align="center">
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_1.png" width="300px"</img>
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_2.png" width="300px"</img>
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_3.png" width="300px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_1.png" width="250px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_2.png" width="250px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/stage_3.png" width="250px"</img>
 </div>
 
 From the left one to the right, it can be clearly seen that based on the preivious memory and a smaller learning rate, the new stage would have a faster rate to have better scores. It seems that my strategy here works.
