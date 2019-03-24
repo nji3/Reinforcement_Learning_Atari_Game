@@ -56,8 +56,8 @@ From the left one to the right, it can be clearly seen that based on the preivio
 I stopped when I have the averaged score reached 32. And I used my final model (the policy network) to generate some sample games. The results are relatively good and have a average scores beyond 50. I generate 200 samples and below are the screen shots of several games with scores above 80.
 
 <div align="center">
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/81_gif.gif" width="200px"</img>
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/82_gif.gif" width="200px"</img>
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/87_gif.gif" width="200px"</img>
-        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/96_gif.gif" width="200px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/81.gif" width="200px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/82.gif" width="200px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/87.gif" width="200px"</img>
+        <img src="https://github.com/nji3/Reinforcement_Learning_Atari_Game/blob/master/readme_pics/96.gif" width="200px"</img>
 </div>
